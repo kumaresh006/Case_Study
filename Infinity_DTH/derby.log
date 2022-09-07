@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 07 19:54:15 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-1856-574a-0000078bceb0 
+on database directory C:\Users\Kumaresh\Desktop\Case Study\Infinity_DTH\testdb1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/Kumaresh/Desktop/Case%20Study/Infinity_DTH/src/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=C:\Users\Kumaresh\Desktop\Case Study\Infinity_DTH
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
